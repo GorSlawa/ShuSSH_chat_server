@@ -122,7 +122,7 @@ if imported is False:
 
 
 # Defaults:
-host_port = 22
+host_port = 522
 key_bits = 2048
 key_file = "shusshd-rsa.key"
 state_file = "shussh.db"
